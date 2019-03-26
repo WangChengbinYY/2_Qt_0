@@ -1,0 +1,4 @@
+/home/hailiang/Documents/Software/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ -G "CodeBlocks - Unix Makefiles" /home/hailiang/Documents/TsingHua/workspace/serialsim
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hailiang/Documents/TsingHua/workspace/serialsim/build

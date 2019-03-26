@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/hailiang/Documents/TsingHua/workspace/serialsim/build",
+  "command": "/usr/bin/clang++-6.0  -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_SERIALPORT_LIB -I/home/hailiang/Documents/TsingHua/workspace/serialsim/build/serialsim_autogen/include -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include/QtCore -isystem /opt/Qt5.11.1/5.11.1/gcc_64/./mkspecs/linux-g++ -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include/QtSerialPort  -O3 -DNDEBUG   -fPIC -std=gnu++11 -o CMakeFiles/serialsim.dir/main.cpp.o -c /home/hailiang/Documents/TsingHua/workspace/serialsim/main.cpp",
+  "file": "/home/hailiang/Documents/TsingHua/workspace/serialsim/main.cpp"
+},
+{
+  "directory": "/home/hailiang/Documents/TsingHua/workspace/serialsim/build",
+  "command": "/usr/bin/clang++-6.0  -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_SERIALPORT_LIB -I/home/hailiang/Documents/TsingHua/workspace/serialsim/build/serialsim_autogen/include -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include/QtCore -isystem /opt/Qt5.11.1/5.11.1/gcc_64/./mkspecs/linux-g++ -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include/QtSerialPort  -O3 -DNDEBUG   -fPIC -std=gnu++11 -o CMakeFiles/serialsim.dir/SerialThread.cpp.o -c /home/hailiang/Documents/TsingHua/workspace/serialsim/SerialThread.cpp",
+  "file": "/home/hailiang/Documents/TsingHua/workspace/serialsim/SerialThread.cpp"
+},
+{
+  "directory": "/home/hailiang/Documents/TsingHua/workspace/serialsim/build",
+  "command": "/usr/bin/clang++-6.0  -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_SERIALPORT_LIB -I/home/hailiang/Documents/TsingHua/workspace/serialsim/build/serialsim_autogen/include -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include/QtCore -isystem /opt/Qt5.11.1/5.11.1/gcc_64/./mkspecs/linux-g++ -isystem /opt/Qt5.11.1/5.11.1/gcc_64/include/QtSerialPort  -O3 -DNDEBUG   -fPIC -std=gnu++11 -o CMakeFiles/serialsim.dir/serialsim_autogen/mocs_compilation.cpp.o -c /home/hailiang/Documents/TsingHua/workspace/serialsim/build/serialsim_autogen/mocs_compilation.cpp",
+  "file": "/home/hailiang/Documents/TsingHua/workspace/serialsim/build/serialsim_autogen/mocs_compilation.cpp"
+}
+]

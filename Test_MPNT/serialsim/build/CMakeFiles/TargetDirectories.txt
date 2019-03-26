@@ -1,0 +1,4 @@
+/home/hailiang/Documents/TsingHua/workspace/serialsim/build/CMakeFiles/rebuild_cache.dir
+/home/hailiang/Documents/TsingHua/workspace/serialsim/build/CMakeFiles/serialsim.dir
+/home/hailiang/Documents/TsingHua/workspace/serialsim/build/CMakeFiles/edit_cache.dir
+/home/hailiang/Documents/TsingHua/workspace/serialsim/build/CMakeFiles/serialsim_autogen.dir

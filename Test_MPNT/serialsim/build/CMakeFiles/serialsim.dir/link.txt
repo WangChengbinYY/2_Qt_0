@@ -1,0 +1,1 @@
+/usr/bin/clang++-6.0  -O3 -DNDEBUG   CMakeFiles/serialsim.dir/main.cpp.o CMakeFiles/serialsim.dir/SerialThread.cpp.o CMakeFiles/serialsim.dir/serialsim_autogen/mocs_compilation.cpp.o  -o serialsim -Wl,-rpath,/opt/Qt5.11.1/5.11.1/gcc_64/lib -lm /opt/Qt5.11.1/5.11.1/gcc_64/lib/libQt5SerialPort.so.5.11.1 /opt/Qt5.11.1/5.11.1/gcc_64/lib/libQt5Core.so.5.11.1 
