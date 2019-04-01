@@ -63,7 +63,7 @@ void MainWindow::SerialPortOpen()
     if(mSerial.open(QIODevice::ReadWrite)){
         QMessageBox::about(NULL, "提示", "串口打开 成功！");
         //设置波特率
-        mSerial.setBaudRate(QSerialPort::Baud115200);
+        mSerial.setBaudRate(QSerialPort::Baud9600);
         //设置数据位
         mSerial.setDataBits(QSerialPort::Data8);
         //设置校验位
